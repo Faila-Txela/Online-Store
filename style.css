@@ -29,7 +29,6 @@ body{
         height: 90vh;
     }
     main{
-        border: 6px solid var(--background-color-body);
         display: flex;
     }
 }
